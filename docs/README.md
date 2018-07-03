@@ -11,4 +11,4 @@
 
 <h3>Emulatoren</h3>
 
-* <a href="https://github.com/EmuZONE/RecalBox-Files/raw/master/Android/ClassicBoy_Full_v2.0.3.zip">ClassicBoy</a> Multi Emulator (Android)
+* <a href="https://github.com/EmuZONE/RecalBox-Files/raw/master/Android/ClassicBoy_Full_v2.0.3.zip">ClassicBoy Multi Emulator</a> (Android)
