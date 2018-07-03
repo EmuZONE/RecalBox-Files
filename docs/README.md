@@ -8,7 +8,7 @@
 <br>
 <a href="https://github.com/EmuZONE/FamiCom/archive/master.zip">NES/FamiCom Roms</a>
 <br>
-<a href="https://github.com/EmuZONE/PC-Engine/archive/master.zip">PC-Engine Roms</a>
+<a href="https://github.com/EmuZONE/PC-Engine/tree/master/Romshub.com/EmuZONE/PC-Engine/archive/master.zip">PC-Engine Roms</a>
 <br>
 <a href="https://github.com/EmuZONE/Mark-III/archive/master.zip">MasterSystem Roms</a>
 <br>
