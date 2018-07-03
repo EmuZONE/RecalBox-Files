@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/EmuZONE/RecalBox-Files/master/docs/diy2.png"></img>
-
+<img src="https://raw.githubusercontent.com/EmuZONE/RecalBox-Files/master/docs/diy2.png">
 
 <h3>Bios Files & Roms<h3/>
 <br>
@@ -14,9 +13,7 @@
 <a href="https://github.com/EmuZONE/Mark-III/archive/master.zip">MasterSystem Roms</a>
 <br>
 <br>
-
 <h3>Emulatoren (Android)<h3/>
-<br>
 <br>
 <a href="https://github.com/EmuZONE/RecalBox-Files/raw/master/Android/ClassicBoy_Full_v2.0.3.zip">ClassicBoy</a> (Multi System Emulator)
 <br>
