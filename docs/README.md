@@ -1,2 +1,2 @@
 
-<img src="https://raw.githubusercontent.com/EmuZONE/RecalBox-Files/master/docs/diy2.png">Logo</img>
+<img src="https://raw.githubusercontent.com/EmuZONE/RecalBox-Files/master/docs/diy2.png">
