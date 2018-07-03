@@ -12,3 +12,7 @@
 <h3>Emulatoren</h3>
 
 * <a href="https://github.com/EmuZONE/RecalBox-Files/raw/master/Android/ClassicBoy_Full_v2.0.3.zip">ClassicBoy Multi Emulator</a> (Android)
+
+* <a href=”https://github.com/EmuZONE/RecalBox-Files/raw/master/Android/SuperGNES.apk”>SuperRetro16</a> SNES Emulator (Android)
+
+* <a href=”https://github.com/EmuZONE/RecalBox-Files/raw/master/Android/Retro8-1.0.9.apk”>Retro8 1.0.9</a> NES Emulator (Android)
