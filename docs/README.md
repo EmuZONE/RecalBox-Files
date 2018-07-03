@@ -3,8 +3,8 @@
 
 <h3>Files & Roms</h3>
 
-* <a href="https://github.com/EmuZONE/RecalBox-Files/raw/master/BIOS/Bios.7z">BIOS Dateien (10.300 KB)</a>
-* <a href="https://github.com/EmuZONE/Nintendo-64/archive/master.zip">N64 Roms</a>
+* <a href="https://github.com/EmuZONE/RecalBox-Files/raw/master/BIOS/Bios.7z">BIOS Dateien</a> (10.300 KB)
+* <a href="https://github.com/EmuZONE/Nintendo-64/archive/master.zip">N64 Roms</a> 
 * <a href="https://github.com/EmuZONE/FamiCom/archive/master.zip">NES Roms</a>
 * <a href="https://github.com/EmuZONE/PC-Engine/archive/master.zip">PC-E Roms</a>
 * <a href="https://github.com/EmuZONE/Mark-III/archive/master.zip">MarkIII</a>
