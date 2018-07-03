@@ -4,13 +4,13 @@
 <br>
 <a href="https://github.com/EmuZONE/RecalBox-Files/raw/master/BIOS/Bios.7z">RecalBox Bios</a>
 <br>
-<a href="https://github.com/EmuZONE/Nintendo-64/archive/master.zip">N64 Roms</a>
+<a href="https://github.com/EmuZONE/Nintendo-64/tree/master/Roms">N64 Roms</a>
 <br>
-<a href="https://github.com/EmuZONE/FamiCom/archive/master.zip">NES/FamiCom Roms</a>
+<a href="https://github.com/EmuZONE/FamiCom/tree/master/Roms">NES/FamiCom Roms</a>
 <br>
 <a href="https://github.com/EmuZONE/PC-Engine/tree/master/Roms">PC-Engine Roms</a>
 <br>
-<a href="https://github.com/EmuZONE/Mark-III/archive/master.zip">MasterSystem Roms</a>
+<a href="https://github.com/EmuZONE/Mark-III/tree/master/Roms">MasterSystem Roms</a>
 <br>
 <br>
 <h3>Emulatoren (Android)<h3/>
