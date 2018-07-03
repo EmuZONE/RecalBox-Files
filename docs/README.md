@@ -1,2 +1,2 @@
 
-<img src="docs/diy2.png">Logo</img>
+<img src="diy2.png">Logo</img>
